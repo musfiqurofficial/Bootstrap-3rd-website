@@ -33,6 +33,11 @@ body{
     background-color: #006905;
 }
 
+.imgs-sz{
+    width: 20%!important;
+    margin-top: 20px;
+}
+
 .gt-s-bt{
     border: none;
     border-radius: 25px;
@@ -52,4 +57,31 @@ body{
 .cd{
     border: none;
     background-color: #F0FFF0;
+}
+.cd-dgn{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+.by-cos-bt{
+    border: none;
+    border-radius: 25px;
+    padding: 10px 25px;
+    background-color: #21B573;
+}
+#ml{
+    margin-left: 40px;
+}
+.px{
+    padding: 50px 200px;
+}
+
+.footer{
+    background-color: #282531;
+    color: #fff;
+}
+.list-group{
+    background-color: none !important;
+    border: none;
 }
